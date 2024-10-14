@@ -1,3 +1,18 @@
-.p{
-font-size: larger;
+.top{
+    font-family: "Nuniro",sans-serif;
+    text-align: center;
+    font-size: 24px;
 }
+
+.list{
+    font-family: "Nuniro",sans-serif;
+ 
+}
+
+.info{
+    font-family: "Nuniro",sans-serif;
+    text-align: right;
+    margin-right: 2cm;
+    font-size: 18px;
+}
+
