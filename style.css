@@ -10,9 +10,15 @@
 }
 
 .info{
-    font-family: "Nuniro",sans-serif;
+    font-family: "Nuniro",serif;
     text-align: right;
     margin-right: 2cm;
     font-size: 18px;
 }
 
+.running{
+    font-family: "Nuniro",Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(to right,#c9a2dd,#a669c4);
+   
+
+}
